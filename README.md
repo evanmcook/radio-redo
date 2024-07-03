@@ -12,8 +12,8 @@ small tip - red wire inside black
 
 ### PTT + 1/8" to XLR-4 mod
 
-XLR 4 Pin
-1 - mic gnd
-2 - mic + (red)
-3 -  tip + ring (clear + red)
-4 -  sleeve (raw)
+XLR 4 Pin  
+1 - mic gnd  
+2 - mic + (red)  
+3 -  tip + ring (clear + red)  
+4 -  sleeve (raw)  
