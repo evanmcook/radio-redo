@@ -2,7 +2,7 @@
 modifications for walkie talkies and radio accessories 
 
 
-### HKLN4604B  
+### HKLN4604B  - Motorola PTT with Swivel Ear
 
 large sleeve - white  - speaker minus  
 large tip - green  - speaker plus  
@@ -19,7 +19,7 @@ __XLR 4 -__
 
 
 
-### HKLN4601 - Motorola PTT
+### HKLN4601 - Motorola PTT with surveilance in-ear tube
 
 large sleeve - white outside - speaker minus  
 large tip - RED outside - speaker plus  
