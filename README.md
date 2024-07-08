@@ -9,6 +9,8 @@ large tip - green  - speaker plus
 small sleeve - raw wire inside black  - mic gnd   
 small tip - red wire inside black - mic & PTT  
 
+
+
 __XLR 4 -__  
 1-  mic gnd - raw wire inside black  
 2-  mic & PTT - red wire inside black  
@@ -24,3 +26,18 @@ XLR 4 Pin
 2 - mic + (red)  
 3 -  tip + ring (clear + red)  
 4 -  sleeve (raw)  
+
+
+
+### HKLN4601 - Motorola PTT
+
+large sleeve - white outside - speaker minus  
+large tip - RED outside - speaker plus  
+small sleeve - raw wire inside black  - mic gnd   
+small tip - red wire inside black - mic & PTT  
+
+__XLR 4 -__  
+1-  mic gnd - raw wire inside black  
+2-  mic & PTT - red wire inside black  
+3-  speaker gnd - white  
+4- speaker hot - RED outside 
