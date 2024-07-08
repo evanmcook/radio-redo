@@ -19,16 +19,6 @@ __XLR 4 -__
 
 
 
-### PTT + 1/8" to XLR-4 mod
-
-XLR 4 Pin  
-1 - mic gnd  
-2 - mic + (red)  
-3 -  tip + ring (clear + red)  
-4 -  sleeve (raw)  
-
-
-
 ### HKLN4601 - Motorola PTT
 
 large sleeve - white outside - speaker minus  
@@ -41,3 +31,13 @@ __XLR 4 -__
 2-  mic & PTT - red wire inside black  
 3-  speaker gnd - white  
 4- speaker hot - RED outside 
+
+
+
+### PTT + 1/8" to XLR-4 mod -  PTT mic only + headphone out
+
+XLR 4 Pin  
+1 - mic gnd  
+2 - mic + (red)  
+3 -  tip + ring (clear + red)  
+4 -  sleeve (raw)  
