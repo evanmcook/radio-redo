@@ -43,8 +43,14 @@ XLR 4 Pin
 4 -  sleeve (raw)  
 
 ### Maximal Power PTT 
-large sleeve - blue - speaker minus - pin 3
-large tip - green - speaker plus - pin 4
+large sleeve - blue - speaker minus - pin 3  
+large tip - green - speaker plus - pin 4  
 
-small sleeve - barewire - mic minus
+small sleeve - barewire - mic minus  
 small tip - white - mic & PTT
+
+XLR 4 Pin  
+1- mic gnd [barewire from mic]  
+2- mic + [  white from mic ]  
+3- tip + ring from 1/8" (clear + red)  
+4 - sleeve from 1/8"
