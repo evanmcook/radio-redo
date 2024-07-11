@@ -2,6 +2,7 @@
 modifications for walkie talkies and radio accessories 
 
 
+
 ### HKLN4604B  - Motorola PTT with Swivel Ear
 
 large sleeve - white  - speaker minus  
@@ -17,6 +18,8 @@ __XLR 4 -__
 3-  speaker gnd - white  
 4- speaker hot - green  
 
+In 4604B, there is a wax coating protecting the red and green wire. strip it off carefully using 30 AWG stranded setting on strippers to make incision.
+all wires besides ground have string-filler that should be removed before soldering. burning the string filler with a lighter will char the copper, complicating the tinning step of the soldering process.
 
 
 ### HKLN4601 - Motorola PTT with surveilance in-ear tube
