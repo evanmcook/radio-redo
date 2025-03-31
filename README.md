@@ -57,3 +57,10 @@ XLR 4 Pin
 2- mic + [  white from mic ]  
 3- tip + ring from 1/8" (clear + red)  
 4 - sleeve from 1/8"
+
+Pigtail
+Tip - Red
+Ring - White
+Sleeve - Black
+
+
