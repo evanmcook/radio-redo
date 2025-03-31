@@ -56,11 +56,22 @@ XLR 4 Pin
 1- mic gnd [barewire from mic]  
 2- mic + [  white from mic ]  
 3- tip + ring from 1/8" (clear + red)  
-4 - sleeve from 1/8"
+4 - sleeve from 1/8"   
 
-Pigtail
-Tip - Red
-Ring - White
-Sleeve - Black
+------ 
 
+### Pigtail 
+Tip - Red  
+Ring - White  
+Sleeve - Black   
+
+### Generic PTT Mic
+small sleeve - enameled bare - mic minus  
+small tip - enameled red - mic + PTT
+
+*XLR 4 Pinout Result*  
+1- mic gnd [enameled bare, mic]  
+2- mic + [enameled red, mic]  
+3- tip + ring from 1/8" (red + white)  
+4- sleeve from 1/8" (black)
 
